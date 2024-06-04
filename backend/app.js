@@ -9,13 +9,13 @@ dotenv.config({path:path.join(__dirname,"config/config.env")});
 
 
 
-const corsOrigin ={
-    origin:'FRONTEND_URL', 
-    methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
-    credentials:true,            
-    optionSuccessStatus:200
-}
-app.use(cors(corsOrigin));
+// const corsOrigin ={
+//     origin:'FRONTEND_URL', 
+//     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
+//     credentials:true,            
+//     optionSuccessStatus:200
+// }
+app.use(cors);
 
 app.use(express.json());
 app.use(cookieParser());
