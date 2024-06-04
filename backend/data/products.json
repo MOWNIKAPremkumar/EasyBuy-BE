@@ -1,0 +1,629 @@
+[
+    {
+        "name": "New Apple iPhone 14 Pro Max 256GB Deep Purple ",
+        "price": 1212.12,
+        "description": "Highlighting features are 6.7 inches Super Retina XDR Display, Apple A16 Bionic Processor,4323 mAh Battery,48MP + 12MP + 12MP + 12MP Rear Camera, 12MP Front Camera, 12 months Apple Global Warranty, Physical SIM & eSIM.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/6487411_sd.jpg"
+            },
+            {
+                "image": "/images/products/f-whatsapp-image-2023-09-09-at-110847-pm-96561694281135910.jpeg"
+            }
+           
+        ],
+        "category": "Mobile Phones",
+        "seller": "Apple",
+        "stock": 15,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+
+    {
+        "name": "Vivo V30e ",
+        "price": 300.12,
+        "description": "Vivo V30e With 5,500mAh Battery, 50-Megapixel Selfie Camera, with features as 6.78-inch full-HD+ (1,080 x 2,400 pixels) 3D curved display with 120Hz refresh rate.",
+        "ratings": 4.4,
+        "images": [
+            {
+                "image": "/images/products/vivo-V30e.jpg"
+            },
+            {
+                "image": "/images/products/images.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "vivo",
+        "stock": 15,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "ONEPLUS OPEN",
+        "price": 1259.12,
+        "description": "The new king of foldables reigns supreme",
+        "ratings": 4.4,
+        "images": [
+            {
+                "image": "/images/products/Eaq8TUXsCnUEjWmMdiVjmb.jpg"
+            },
+            {
+                "image": "/images/products/CDcMmdecNRir3mndTMVaR8-768-80.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "oneplus",
+        "stock": 15,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Vivo X100s",
+        "price": 359.67,
+        "description": "Vivo X100s, X100s Pro With MediaTek Dimensity 9300+ SoCs, 100W Fast Charging",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/vivo_x100_pro.jpg"
+            },
+            {
+                "image": "/images/products/vivox100blue-cover1111.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "vivo",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "OnePlus Nord CE 4 5G",
+        "price": 262.32,
+        "description": "The lowest price of OnePlus Nord CE 4 5G. This is 8 GB RAM / 128 GB internal storage base variant of OnePlus Nord CE 4 5G which is available in Celadon Marble, Dark Chrome colour.",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "/images/products/oneplus-nord-ce-4-5g.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "oneplus",
+        "stock": 10,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "OPPO F21s Pro 5G",
+        "price": 245.67,
+        "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/1.jpg"
+            },
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "oppo",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Apple 13-inch MacBook Air M3",
+        "price": 1359.32,
+        "description": "Apple 2024 MacBook Air 13-inch Laptop with M3 chip: 13.6-inch Liquid Retina Display, 8GB Unified Memory, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera, Touch ID; Midnight",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "/images/products/d19be0d0-dc8c-11ee-b5ef-54b7aef0a276.jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Apple",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Acer ChromeBook",
+        "price": 549.32,
+        "description": "Acer ChromeBook is a Chrome OS laptop with a 14.00-inch display that has a resolution of 1366x768 pixels. It is powered by a Celeron Dual Core processor and it comes with 4GB of RAM. The Acer ChromeBook packs 32GB of HDD storage.",
+        "ratings": 4,
+        "images": [
+          {
+            "image": "/images/products/Acer_Chromebook_11_(24394834161).jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Acer",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    
+    {
+        "name": "Dell Inspiron 3511 Laptop",
+        "price": 440.57,
+        "description": "Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz);Operating System: Windows 10 Home Single Language, English",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/3.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Dell",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Lenovo IdeaPad Slim 3 Laptop",
+        "price": 250.45,
+        "description": "Lenovo IdeaPad Slim 311th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache",
+        "ratings": 4,
+        "images": [
+          {
+            "image": "/images/products/20-3.jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Lenevo",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+      },
+      {
+        "name": "ASUS VivoBook 15 Laptop",
+        "price": 767.32,
+        "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "/images/products/asus-vivobook-15-x512fl_1563184367110.jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Asus",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+
+    {
+        "name": "boAt Earbuds ",
+        "price": 136.46,
+        "description": "boAt Immortal 141 TWS Earbuds (Black)",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/61ttQ3luL6L.jpg"
+            }
+        ],
+        "category": "Earbuds",
+        "seller": "boAt",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Bose 300 Premium Bluetooth Soundbar ",
+        "price": 544.12,
+        "description": "Bose 300 Premium Bluetooth Soundbar with Wi Fi Connectivity,Voice Control Built-in,Hdmi Arc + Optical Connectivity Universal Remote Control, Wall Mountable, Optional Bass Module and Surround Speakers",
+        "ratings": 4.7,
+        "images": [
+            {
+                "image": "/images/products/71O2s2IizlL._SL1500_.jpg"
+            },
+            {
+                "image": "/images/products/81y4CWIwEHL._SL1500_.jpg"
+            }
+        ],
+        "category": "Home Appliances",
+        "seller": "Bose",
+        "stock": 15,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Bose SoundLink Mini Bluetooth Speaker II (Pearl)",
+        "price": 172.12,
+        "description": "Wireless and ultra-compact so you can take Bose sound anywhere. Built-in speakerphone lets you take calls out loud,Bluetooth Range: Up to 30' (9.14 m)",
+        "ratings": 4.0,
+        "images": [
+            {
+                "image": "/images/products/71E1f3cAuML._AC_SL1500_.jpg"
+            },
+            {
+                "image": "/images/products/61JlS3py4aL._AC_SL1500_.jpg"
+            }
+        ],
+        "category": "Home Appliances",
+        "seller": "Bose",
+        "stock": 15,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+
+    {
+        "name": "TrueFree O1",
+        "price": 120.46,
+        "description": "TrueFree O1 Open-Ear Bluetooth 5.3 Wireless Earbuds",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "/images/products/61sjwSII8oL.jpg"
+            },
+            {
+                "image": "/images/products/71zm9oXmiwL._SL1500_.jpg"
+            }
+          
+        ],
+        "category": "Earbuds",
+        "seller": "EasyBuy",
+        "stock": 8,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Yobola Wireless",
+        "price": 160.46,
+        "description": "yobola Wireless Headphones, Wireless Earbuds 24H Playtime 3D Stereo HD Wireless Earphones with Mic, Touch Control,Bluetooth Earbuds with Wireless charging Case",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "/images/products/61l6Q1WiMNL.jpg"
+            },
+            {
+                "image": "/images/products/51PNgLLhN7L.SS700.jpg"
+            }
+           
+        ],
+        "category": "Earbuds",
+        "seller": "Yobola",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": " True Wireless",
+        "price": 160.46,
+        "description": "TSKIS True Wireless Earbuds Bluetooth Headphones with Noise Cancelling Mic 48Hrs Playtime LED Display IPX7 Waterproof Ear Buds for Android/iOS (Rose Gold)",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "/images/products/51H25WsIqEL._AC_SL1500_.jpg"
+            },
+            {
+                "image": "/images/products/61dfe+1HrmL._AC_SL1500_.jpg"
+            }
+        ],
+        "category": "Earbuds",
+        "seller": "EasyBuy",
+        "stock": 8,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": " Mivi Duopods i7 TWS",
+        "price": 152.46,
+        "description": "Mivi DuoPods i7 TWS,3D Soundstage,High-fidelity Driver,AAC for Lossless Audio Earbuds Bluetooth Headset  (Topaz White, True Wireless)",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "/images/products/71yjP-TcPDL.jpg"
+            }
+        ],
+        "category": "Earbuds",
+        "seller": "Mivi",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Apple Watch Series 9 ",
+        "price": 421.32,
+        "description": "Apple Watch Series 9 (Aluminium | GPS) Smart Watch",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/MT3U3ref_VW_34FR+watch-case-45-aluminum-pink-cell-s9_VW_34FR+watch-face-45-aluminum-pink-s9_VW_34FR_WF_CO_GEO_IN.jpg"
+            }
+        ],
+        "category": "Smartwatches",
+        "seller": "Apple",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "WRISTIO HD",
+        "price": 150.32,
+        "description": "Bluetooth Calling Smart Watch. Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "Smartwatches",
+        "seller": "wristo",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Fire-Boltt",
+        "price": 179.32,
+        "description": "Fire-Boltt Phoenix Ultra Luxury Stainless Steel, Bluetooth Calling Smartwatch, AI Voice Assistant, Metal Body with 120+ Sports Modes, SpO2, Heart Rate Monitoring (Gold)",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "/images/products/8195aYGDl9L._SL1500_.jpg"
+            },
+            {
+                "image": "/images/products/71SWP+Ma8WL._SL1500_.jpg"
+            }
+        ],
+        "category": "Smartwatches",
+        "seller": "EasyBuy",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    
+    {
+        "name": "Sounce Premium Silicone",
+        "price": 9.32,
+        "description": "Sounce Premium Silicone Adjustable Watch Band Waterproof, Durable, Comfortable, Sporty Strap Replacement Lightweight for Xiaomi Mi Band 5/ Mi Band 6 (Not Compatible For Mi Band 1/2/3/4)-(Black & Blue)",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "/images/products/61tdO4yvAOL._SL1500_.jpg"
+            },
+            {
+                "image": "/images/products/41OfM1Jn38L.jpg"
+            }
+        ],
+        "category": "Smartwatches",
+        "seller": "EasyBuy",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },    
+    {
+        "name": "Sony Bravia 75 inch",
+        "price": 1587.46,
+        "description": "Sony Bravia 189 cm (75 inches) 4K Ultra HD Smart LED Google TV KD-75X82L (Black)",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/915+sXcUY+L._SL1500_.jpg"
+            }
+        ],
+        "category": "Televisions",
+        "seller": "sony",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "LG (65 inches)",
+        "price": 759.46,
+        "description": "LG 164 cm (65 inches) 4K Ultra HD Smart LED TV 65UR7500PSC (Dark Iron Gray)",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "/images/products/81XsebPKp+L._AC_SL1500_.jpg"
+            }
+        ],
+        "category": "Televisions",
+        "seller": "LG",
+        "stock": 4,
+        "numOfReviews": 4,
+        "reviews": []
+    },
+    {
+        "name": "Samsung(85 inches)",
+        "price": 8596.46,
+        "description": "Samsung 214 cm (85 inches) 8K Ultra HD Smart Neo QnED TV QA85QN900CKXXL (Titan Black)",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "/images/products/81XsebPKp+L._AC_SL1500_.jpg"
+            }
+        ],
+        "category": "Televisions",
+        "seller": "Samsung",
+        "stock": 8,
+        "numOfReviews": 4,
+        "reviews": []
+    },
+    {
+        "name": "TCL 216 cm (85 inches) ",
+        "price": 1799.46,
+        "description": "TCL 216 cm (85 inches) 4K Ultra HD Smart LED Google TV 85P745 (Black)",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "/images/products/61IYfIs7m9L._SL1500_.jpg"
+            }
+        ],
+        "category": "Televisions",
+        "seller": "TCL",
+        "stock": 8,
+        "numOfReviews": 4,
+        "reviews": []
+    },
+
+    {
+        "name": "Hammer Bash 2.0",
+        "price": 212.46,
+        "description": "Hammer Bash 2.0 Wireless Bluetooth Headphone with Deep Bass",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/61KECirzQEL.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Hammer",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+   
+    {
+        "name": "Bluetooth Headphones ",
+        "price": 219.46,
+        "description": " Bluetooth Headphones Wireless, Foldable Over-Ear Headphones, Noise Cancelling Gaming Headphones with LED Lights, Comfort Fit Ear Cups, for Kids, Adults.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/71KtDIsnAjL._AC_SL1500_.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "EasyBuy",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "JBL Tune 670NC wireless on-ear headphones",
+        "price": 118.46,
+        "description": " JBL TUNE 670NC Bt Headset | Bluetooth, Over-Ear Noise Cancelling, Lightweight, Purple",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/51ryeT1SfoL._SL1500_.jpg"
+            },
+            {
+                "image": "/images/products/jbl-tune-670nc-bt-headset-bluetooth-over-ear-noise-cancelling-lightweight-purple-5.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "JBL",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    
+    {
+        "name": "TicWatch Pro 5",
+        "price": 233.32,
+        "description": "Ticwatch Pro 5 Android Smartwatch for Men Snapdragon W5+ Gen 1 Wear OS Smart Watch 80 Hrs Long Battery Life Health Fitness Tracking 5ATM Water Resistance Compass Android Only Compatible, Sandstone",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/maxresdefault.jpg"
+            }
+        ],
+        "category": "Smartwatches",
+        "seller": "TicWatch",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "EasyBuy Home Appliances",
+        "price": 1600.32,
+        "description": "EasyBuy 45 Most Essential Home Appliances List with the best features for all home appliances in different categories.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "image": "/images/products/Home-Appliances.jpg"
+            }
+        ],
+        "category": "Home Appliances",
+        "seller": "EasyBuy",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "EasyBuy Home Appliances",
+        "price": 2000.32,
+        "description": "EasyBuy Essential Home Appliances List with the best features for all home appliances in different categories.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "image": "/images/products/home54974166xl1597319530.jpg"
+            }
+        ],
+        "category": "Home Appliances",
+        "seller": "EasyBuy",
+        "stock": 7,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Kitchen Appliances",
+        "price": 288.32,
+        "description": "EasyBuy kitchen Appliances List with the best features for all home appliances in different categories.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "image": "/images/products/shutterstock_1131222482_core_2_2_1.jpg"
+            }
+        ],
+        "category": "Home Appliances",
+        "seller": "EasyBuy",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },   
+    {
+        "name": "Kitchen Appliances",
+        "price": 1784.32,
+        "description": "EasyBuy kitchen Appliances List with the best features for all home appliances in different categories.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "image": "/images/products/depositphotos_201082784-stock-photo-home-appliances-set-household-kitchen.jpg"
+            }
+        ],
+        "category": "Home Appliances",
+        "seller": "EasyBuy",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Kitchen Appliances",
+        "price": 288.32,
+        "description": "EasyBuy House Appliances List with the best features for all home appliances in different categories.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "image": "/images/products/Household-appliances-on-transparent-background-PNG.png"
+            }
+        ],
+        "category": "Home Appliances",
+        "seller": "EasyBuy",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },    
+    {
+        "name": "Kitchen Appliances",
+        "price": 3000.32,
+        "description": "EasyBuy House Appliances List with the best features for all home appliances in different categories.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "image": "/images/products/173-1739780_bosch-home-appliances-png-transparent-png.png"
+            }
+        ],
+        "category": "Home Appliances",
+        "seller": "EasyBuy",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    }   
+    
+]
