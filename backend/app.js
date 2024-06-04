@@ -7,7 +7,16 @@ const path = require('path')
 const dotenv = require('dotenv');
 dotenv.config({path:path.join(__dirname,"config/config.env")});
 
-app.use(cors());
+
+
+const corsOrigin ={
+    origin:'FRONTEND_URL', 
+    methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
+    credentials:true,            
+    optionSuccessStatus:200
+}
+app.use(cors(corsOrigin));
+
 app.use(express.json());
 app.use(cookieParser());
 app.use('/uploads', express.static(path.join(__dirname,'uploads') ) )
