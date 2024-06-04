@@ -6,7 +6,7 @@ Welcome to the EasyBuy E-Commerce website! This project is built using the MERN 
 
 ## Features
 
-- **Product Categories**: Products are categorized into various sections 'Mobile Phones','Laptops','Smartwatches','Televisions','Headphones','Earbuds','Home Appliances','MobileAccessories, PC Accessories, Laptop Accessories',that too,with our own brands and other branded items too.
+- **Product Categories**: Products are divided into several sections, including 'Mobile Phones,' 'Laptops,' 'Smartwatches,' 'Televisions,' 'Headphones,' 'Earbuds,' 'Home Appliances,' and 'Mobile Accessories' as well as 'Laptop Accessories.' Additionally, we offer a variety of accessories, both under our own brand and from other recognized brands.
 
 - **User Authentication**: Users can sign up, log in, and update their profiles. Authentication is implemented to secure user data and allow personalized experiences.
 
