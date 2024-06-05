@@ -25,15 +25,12 @@ app.use('/api/v1/',payment);
 
 if(process.env.NODE_ENV === "production") {
     //app.use(express.static(path.join(__dirname, '../frontend/build')));
-    app.use('/*',express.static(__dirname + './server.js'));
-    app.get('/', (req, res) =>{
+    
+    app.get('*', (req, res) =>{
         //res.sendFile(path.resolve(__dirname, '../frontend/build/index.html'))
-        res.render('EasyBuy E-Commerce Backend Running Successfully')
+        res.send('EasyBuy E-Commerce Backend Running Successfully')
     })
 }
-app.listen(process.env.PORT,()=>{
-    console.log(`My Server listening to the port: ${process.env.PORT} in  ${process.env.NODE_ENV} `)
-})
 
 app.use(errorMiddleware)
 
