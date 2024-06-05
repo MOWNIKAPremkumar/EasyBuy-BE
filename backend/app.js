@@ -31,7 +31,9 @@ if(process.env.NODE_ENV === "production") {
         res.render('EasyBuy E-Commerce Backend Running Successfully')
     })
 }
-
+app.listen(process.env.PORT,()=>{
+    console.log(`My Server listening to the port: ${process.env.PORT} in  ${process.env.NODE_ENV} `)
+})
 
 app.use(errorMiddleware)
 
