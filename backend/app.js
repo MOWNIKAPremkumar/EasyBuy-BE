@@ -1,13 +1,13 @@
 const express = require('express');
 const app = express();
-//const cors = require('cors');
+const cors = require('cors');
 const errorMiddleware = require('./middlewares/error');
 const cookieParser = require('cookie-parser')
 const path = require('path')
 const dotenv = require('dotenv');
 dotenv.config({path:path.join(__dirname,"config/config.env")});
 
-//app.use(cors());
+app.use(cors());
 
 app.use(express.json());
 app.use(cookieParser());
