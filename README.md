@@ -14,8 +14,6 @@ Welcome to the EasyBuy E-Commerce website! This project is built using the MERN 
 
 - **Product Reviews**: Users can leave reviews and ratings for products they have purchased, providing valuable feedback to other users.
 
-- **Order Tracking**: Users can track the status of their orders, providing transparency and ease of mind regarding their purchases.
-
 - **Admin Dashboard**: Admin users have access to a special dashboard where they can manage products, orders, users, and inventory. This includes adding, updating, and deleting products, orders, and users, as well as monitoring the number of out-of-stock products.
 
 
