@@ -1,6 +1,6 @@
 # EasyBuy E-COMMERCE BACKEND
 
-Welcome to the EasyBuy E-Commerce website! This project is built using the MERN stack (MongoDB, Express.js, React.js, Node.js), providing a platform for users to purchase various electrical and eletronic products. Users can browse products, add them to their cart, review products, update their profile, and track order statuses. Additionally, an admin dashboard is available for managing products, orders, users, and inventory.
+Welcome to the EasyBuy E-Commerce website! This project is built using the MERN stack (MongoDB, Express.js, React.js, Node.js), providing a platform for users to purchase various electrical and eletronic products. Users can browse products, add them to their cart, review products and update their profile. Additionally, an admin dashboard is available for managing products, orders, users, and inventory.
 
 #### Web Link: https://easy-buy-fe.vercel.app/
 
